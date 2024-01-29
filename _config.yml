@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ricco Venterea"
   avatar           : "website_photo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Cornell undergraduate senior studying astrophysics. Conducting research in planetary science and gravitational waves."
   location         : "Ithaca, New York"
   employer         : "Cornell Center for Astrophysics and Planetary Science"
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "ricco-venterea"
-  orcid            : "0000-0003-3299-3804"
+  orcid            : "https://orcid.org/0000-0003-3299-3804"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
