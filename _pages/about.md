@@ -17,6 +17,6 @@ I'm a senior at Cornell University studying astrophysics. I have been conducting
 ## Current Research Interests
 ☄️ Under Professor Battaglia and Dr. Orlowski-Scherer, I have been studying thermal emission flux from asteroids in our solar system. We use data collected by the Atacama Cosmology Telescope, which has prompted new questions into asteroid regolith.
 
-🌊 Under Professor Coughlin and Will, I have been implementing a novel machine learning algorithm in the context of gravitational waves. We use data collected by the Laser Interferometer Gravitational Wave Observatory, and I have developed a user-interface for scientists to better understand the distribtion of the black hole simulation parameters under this algorithm.
+🌊 Under Professor Coughlin and Will, I have been implementing a novel machine learning algorithm in the context of gravitational waves. We use data collected by the Laser Interferometer Gravitational Wave Observatory, and I have developed a user-interface for scientists to better understand the distribution of the black hole simulation parameters under this algorithm.
 
 
