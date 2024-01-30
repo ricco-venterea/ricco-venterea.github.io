@@ -79,44 +79,44 @@ analytics:
 
 
 # Site Author
-author:
-  name: "Ricco Venterea"
-  avatar: "website_photo.jpg"
-  bio: "Cornell undergraduate senior studying astrophysics."
-  location: "Ithaca, New York"
-  bitbucket:
-  codepen:
-  employer         : ["CCAPS"](https://research.astro.cornell.edu/)
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ijw5gRYAAAAJ&hl=en&oi=ao"
-  email            : "rcv38@cornell.edu"
-  researchgate     : "https://www.researchgate.net/profile/Ricco-Venterea"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "Ricco Venterea"
-  foursquare       :
-  github           : #"academicpages"
-  google_plus      :
-  keybase          :
-  instagram        : "ricco-venterea"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "ricco-venterea"
-  orcid            : "https://orcid.org/0000-0003-3299-3804"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+# author:
+#   name             : "Ricco Venterea"
+#   avatar           : "website_photo.jpg"
+#   bio              : "Cornell undergraduate senior studying astrophysics."
+#   location         : "Ithaca, New York"
+#   bitbucket        :
+#   codepen          :
+#   employer         : ["CCAPS"](https://research.astro.cornell.edu/)
+#   pubmed           : 
+#   googlescholar    : "https://scholar.google.com/citations?user=ijw5gRYAAAAJ&hl=en&oi=ao"
+#   email            : "rcv38@cornell.edu"
+#   researchgate     : "https://www.researchgate.net/profile/Ricco-Venterea"
+#   uri              :
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           :
+#   facebook         : "Ricco Venterea"
+#   foursquare       :
+#   github           : #"academicpages"
+#   google_plus      :
+#   keybase          :
+#   instagram        : "ricco-venterea"
+#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#   lastfm           :
+#   linkedin         : "ricco-venterea"
+#   orcid            : "https://orcid.org/0000-0003-3299-3804"
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   steam            :
+#   tumblr           :
+#   twitter          : #"replacethistwitterhandle"
+#   vine             :
+#   weibo            :
+#   xing             :
+#   youtube          :
+#   wikipedia        :
 
 
 # Reading Files
