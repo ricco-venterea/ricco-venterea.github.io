@@ -7,7 +7,7 @@ main:
     url: /research/    
 
   - title: "Quotes"
-    url: /quotes/
+    url: /files/quotes.md
     
   # - title: "Portfolio"
   #   url: /portfolio/
