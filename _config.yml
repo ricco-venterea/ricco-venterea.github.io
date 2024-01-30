@@ -86,7 +86,7 @@ author:
   location         : "Ithaca, New York"
   bitbucket        :
   codepen          :
-  employer         : ["CCAPS"](https://research.astro.cornell.edu/)
+  employer         : "CCAPS" # (https://research.astro.cornell.edu/)
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ijw5gRYAAAAJ&hl=en&oi=ao"
   email            : "rcv38@cornell.edu"
