@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ricco's Homepage"
 title_separator          : "-"
-name                     : &name "Ricco"
+name                     : &name "Ricco Venterea"
 description              : &description "personal description"
 url                      : https://ricco-venterea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ author:
   avatar           : "website_photo.jpg"
   bio              : "Cornell undergraduate senior studying astrophysics."
   location         : "Ithaca, New York"
-  employer         : ["CCAPS"](https://research.astro.cornell.edu/)
+  employer         : ["CCAPS"] (https://research.astro.cornell.edu/)
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ijw5gRYAAAAJ&hl=en&oi=ao"
   email            : "rcv38@cornell.edu"
