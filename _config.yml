@@ -13,7 +13,7 @@ name                     : &name "Ricco Venterea"
 description              : &description "personal description"
 url                      : https://ricco-venterea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ricco-venterea/ricco-venterea.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,24 +82,24 @@ analytics:
 author:
   name             : "Ricco Venterea"
   avatar           : "website_photo.jpg"
-  bio              : "Cornell undergraduate senior studying astrophysics. Conducting research in planetary science and gravitational waves."
+  bio              : "Cornell undergraduate senior studying astrophysics."
   location         : "Ithaca, New York"
-  employer         : "Cornell Center for Astrophysics and Planetary Science"
+  employer         : ["CCAPS"](https://research.astro.cornell.edu/)
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ijw5gRYAAAAJ&hl=en&oi=ao"
   email            : "rcv38@cornell.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ricco-Venterea"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "Ricco Venterea"
   foursquare       :
   github           : #"academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "ricco-venterea"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "ricco-venterea"
@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - _quotes
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
