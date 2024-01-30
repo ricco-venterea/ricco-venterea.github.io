@@ -4,7 +4,7 @@ title: "Favorite Quotes"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /quotes.html
 ---
 
 ## Locations of key files/directories
