@@ -1,4 +1,4 @@
-Here is a current list of quotes I have collected over the years. I feel they represent my beliefs and views of the cosmos and of myself in research.
+Here is a current list of quotes I have collected over the years. I feel they represent myself in research and views of the cosmos.
 
 - Study hard what interests you the most in the most undisciplined, irreverent and original manner possible. - Richard Feynman
 
