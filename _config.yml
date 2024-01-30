@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ricco Venterea"
-#   avatar           : "website_photo.jpg"
-#   bio              : "Cornell undergraduate senior studying astrophysics."
-#   location         : "Ithaca, New York"
+  avatar           : "website_photo.jpg"
+  bio              : "Cornell undergraduate senior studying astrophysics."
+  location         : "Ithaca, New York"
 #   bitbucket        :
 #   codepen          :
 #   employer         : ["CCAPS"](https://research.astro.cornell.edu/)
