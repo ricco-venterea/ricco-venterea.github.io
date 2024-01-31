@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-I have many interests at this point, but my main focus is at the intersection of planetary science and millimeter astronomy. See below for high level overviews of my research interests. [See](/images/maps_2024.png) where my research has taken me!
+I have many interests at this point, but my main focus is at the intersection of planetary science and millimeter astronomy. See below for high level overviews of my research interests. [See](/images/map_2024.png) where my research has taken me!
 
 ## ACTeroids
 Using data collected by the Atacama Cosmology Telescope, we are studying thermal emission flux from asteroids in millimeter wavelengths (from 1 - 3 mm). We have first demonstrated that using high-fidelity observatories to study asteroids is feasible. I generated light curves and phase curves, which demonstrate the change in asteroid flux over time and distance frome earth. Additionally, we found flux discrepancies between infrared and millimeter observations, suggesting an underlying physical process in asteroid subsurfaces. Specifically, we found a flux decifit in S-class asteroids compared to C-class when implementing an asteroid thermal model. While this is currently being investigated, possible reasons could be the presence of temperature gradients or a change in emissivity. More work is needed to better understand what is causing such a deficit. I am currently building a public database that contains nearly 200 asteroid observations.
