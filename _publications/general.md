@@ -1,5 +1,5 @@
 ---
-permalink: /publication/
+permalink: /general/
 title: "Overview"
 author_profile: true
 redirect_from: 
