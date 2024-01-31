@@ -4,7 +4,7 @@ title: "Selected Publications"
 author_profile: true
 redirect_from: 
   - /md/
-  - /publications.html
+  - /pubs.html
 ---
 
 Here are selected publications. My [Google Scholar](https://scholar.google.com/citations?user=ijw5gRYAAAAJ&hl=en) contains my most current work and interests.
