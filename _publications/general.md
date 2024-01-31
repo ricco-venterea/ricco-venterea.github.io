@@ -1,5 +1,6 @@
 ---
-permalink: /publications/general
+permalink: /publication/
+title: "Overview"
 author_profile: true
 redirect_from: 
   - /md/
