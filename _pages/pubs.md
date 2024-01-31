@@ -12,5 +12,5 @@ Here are selected publications. My [Google Scholar](https://scholar.google.com/c
 ## In Press
 - Orlowski-Scherer J., et al., 2023, [arXiv e-prints](https://arxiv.org/pdf/2306.05468), p. arXiv:2306.05468
 
-## Under Review
+## In Review
 - Venterea R. & Ekka U., 2023, [arXiv e-print](https://arxiv.org/pdf/2306.13689), p. arXiv:2306.13689
