@@ -9,9 +9,9 @@ redirect_from:
 
 I have many interests at this point, but my main focus is in the intersection of planetary science and millimeter astronomy. See below for high level overviews of my research interests. 
 
-# ACTeroids
+## ACTeroids
 We are studying thermal emission flux from asteroids collected in millimeter wavelengths (from 1 - 3 mm). 
 
-# Aframe
+## Aframe
 
-# QuarkNet
+## QuarkNet
