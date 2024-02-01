@@ -14,3 +14,9 @@ Here is a current list of quotes I have collected over the years. I feel they re
 - The larger the circle of light becomes, the greater the perimeter of darkness around it. - Albert Einstein
 
 - Il bene si fa ma non si dice e certe medaglie si appendono all'anima, non alla giacca. - Gino Bartali
+
+- What one man calls God, another calls the laws of physics. - Nikola Tesla
+
+- Progress is not achieved by luck or accident, but by working on yourself daily. - Epictetus
+
+- You keep on learning and learning, and pretty soon you learn something no one has learned before. - Richard Feynman
