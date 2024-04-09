@@ -14,7 +14,7 @@ Hello! I currently attend Cornell University with a major in astronomy with a co
 My [academic genealogy](https://academictree.org/physics/faq.php#whatis) includes Millikan, Rabi, Sommerfeld, and Wilkinson. Through Professor Jim Gates, my Einstein number is 6. Just by association, my genealogy would also include Feynman through Professor Gates.
 
 # Research Background
-I have been conducting research for over two years alongside Professor Nicholas Battaglia and Dr. John Orlowski-Scherer, and more recently, Professor Michael Coughlin and Will Benoit. I will attend graduate school in Fall 2024, with hopes to earn a PhD in astrophysics and eventually work as a research scientist.
+I have been conducting research for over two years alongside Professor Nicholas Battaglia and Dr. John Orlowski-Scherer, and more recently, Professor Michael Coughlin and Will Benoit. Under the Fulbright Award, I will be conducting cosmic ray research at the University of Perugia for 9 months. Afterwards, I will attend the University of California, Riverside to pursue a PhD in Astronomy.
 
 ## Current Research Interests
 ☄️ Under Professor Battaglia and Dr. Orlowski-Scherer, I have been studying thermal emission flux from asteroids in our solar system. We use data collected by the [Atacama Cosmology Telescope](https://act.princeton.edu/), which has prompted new questions into asteroid regolith, such as the flux discrepancies across infrared and millimeter wavelengths.
