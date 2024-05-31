@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ricco Venterea"
   avatar           : "website_photo.jpg"
-  bio              : "Cornell undergraduate senior studying astrophysics."
-  location         : "Ithaca, New York"
+  bio              : "Astrophysicist"
+  location         : "Minneapolis, Minnesota"
   bitbucket        :
   codepen          :
-  employer         : "CCAPS" 
+  employer         : "Cornell University" 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ijw5gRYAAAAJ&hl=en&oi=ao"
   email            : "rvent002@ucr.edu"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         : "Ricco Venterea"
   foursquare       :
-  github           : #"academicpages"
+  github           : "ricco-hub"
   google_plus      :
   keybase          :
   instagram        : "riccoventerea"
