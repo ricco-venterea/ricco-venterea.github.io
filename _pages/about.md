@@ -11,7 +11,9 @@ redirect_from:
 # Biography
 Hello! I graduated from Cornell University with a major in astronomy with a concentration in astrophysics and a minor in physics. I'm very passionate about astrophysics research and pursuing ideas across disciplines. In my free time, I like to play piano, bass guitar and chess. I'm also an [avid reader](https://www.goodreads.com/review/list/22822356-ricco?ref=nav_mybooks&shelf=currently-reading), enjoying genres from classic literature to science fiction. 
 
-My [academic genealogy](https://academictree.org/physics/faq.php#whatis) includes Millikan, Rabi, Sommerfeld, Wilkinson, Oppenheimer, Zwicky, J.J. Thomson, Born, Ehrenfest, Pauli, and Weyl. My Einstein number is 5 (Battaglia -> Bond -> Fowler -> Zwicky -> Einstein). Just by association, my genealogy would also include Feynman through Professor Jim Gates.
+My [academic genealogy](https://academictree.org/physics/faq.php#whatis) includes Millikan, Rabi, Sommerfeld, Wilkinson, Oppenheimer, Zwicky, J.J. Thomson, Born, Ehrenfest, Pauli, and Weyl. My Einstein number is 5 (Battaglia &rarr; Bond &rarr; Fowler &rarr; Zwicky &rarr; Einstein). Just by association, my genealogy would also include Feynman through Professor Jim Gates.
+
+I also played cello for 10 years, and my pedagogical genealogy includes Wang &rarr; Starker &rarr; Schiffer &rarr; Popper.
 
 # Research Background
 I have been conducting research for over two years alongside Professor Nicholas Battaglia and Dr. John Orlowski-Scherer, and more recently, Professor Michael Coughlin and Will Benoit. Under the Fulbright Award, I will be conducting cosmic ray research at the University of Perugia for 9 months. Afterwards, I will attend the University of California, Riverside to pursue a PhD in Astronomy.
