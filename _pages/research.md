@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: interactive
 permalink: /research/
 title: "Current Research"
 author_profile: true
