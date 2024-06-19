@@ -1,12 +1,26 @@
 ---
 layout: default
-title: "Interactive Page"
-permalink: /interactive/
 ---
 
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
 <div id="main" role="main">
-  <h1 class="page__title">{{ page.title }}</h1>
-  
-  <!-- Embed the interactive HTML file using an iframe -->
-  <iframe src="{{ "/fils/map_2024.html" | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+    <!-- Embed Bokeh plot using an iframe -->
+    <iframe src="{{ "/files/map_2024.html" | relative_url }}" width="100%" height="600px" frameborder="0"></iframe>
+  </div>
 </div>
