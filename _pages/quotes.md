@@ -21,15 +21,15 @@ Here is a current list of quotes I have collected over the years. I feel they re
 
 - You keep on learning and learning, and pretty soon you learn something no one has learned before. - Richard Feynman
 
-- Why are we all burdened with the duty to destroy everything, change everything, entrust everything to impermanency? - Mishima
+- Why are we all burdened with the duty to destroy everything, change everything, entrust everything to impermanency? - Yukio Mishima
 
-- Yesterday is but today's memory and tomorrow is today's dream. - Gibran
+- Yesterday is but today's memory and tomorrow is today's dream. - Kahlil Gibran
 
-- Let today embrace the past with remembrance and the future with longing. - Gibran
+- Let today embrace the past with remembrance and the future with longing. - Kahlil Gibran
 
-- Although beauty may give itself to everyone, it does not actually belong to anybody. - Mishima
+- Although beauty may give itself to everyone, it does not actually belong to anybody. - Yukio Mishima
 
-- Stupidity has a knack of getting its way; as we should see if we were not always so much wrapped up in ourselves. - Camus
+- Stupidity has a knack of getting its way; as we should see if we were not always so much wrapped up in ourselves. - Albert Camus
 
 - I have no special talent. I am only passionately curious. - Albert Einstein
 
@@ -38,5 +38,9 @@ Here is a current list of quotes I have collected over the years. I feel they re
 - I learned very early the difference between knowing the name of something and knowing something. - Richard Feynman
 
 - Presumption should never make us neglect that which appears easy to us, nor despair make us lose courage at the sight of difficulties. - Benjamin Banneker
+
+- The charm of knowledge would be small if so much shame did not have to be overcome on the road to it. - Friedrich Nietzsche
+
+- He who fights with monsters should look to it that he himself does not become a monster. And when you gaze long into an abyss the abyss also gazes into you. - Friedrich Nietzsche
 
 
