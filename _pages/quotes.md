@@ -49,4 +49,6 @@ Here is a current list of quotes I have collected over the years. I feel they re
 
 - ...one can learn to live with ambiguity--that much is requisite to the seeking spirit--and with the silence of the stars. All who genuinely seek to learn, whether atheist or believer, scientist or mystic, are united in having not *a* faith but faith itself. Its token is reverence, its habit to respect the eloquence of silence. For God's hand may be a human hand, if you reach out in loving kindness, and God's voice your voice, if you but speak the truth. - Timothy Ferris
 
+- I will learn from myself, be my own pupil; I will learn from myself the secret of Siddhartha. - Hermann Hesse
+
 
