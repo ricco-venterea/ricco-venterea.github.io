@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ricco Venterea"
   avatar           : "website_photo.jpg"
-  bio              : "Graduate Research Assistant"
+  bio              : "Graduate Student Researcher"
   location         : "Riverside, CA"
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Ricco Venterea"
+  facebook         : "ricco.venterea"
   foursquare       :
   github           : "ricco-hub"
   google_plus      :
@@ -109,13 +109,13 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : https://steamcommunity.com/profiles/76561198866576062/
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : @riccoventerea5111
   wikipedia        :
 
 
