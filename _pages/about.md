@@ -16,12 +16,19 @@ My [academic genealogy](https://academictree.org/physics/faq.php#whatis) include
 I also played cello for 10 years, and my pedagogical genealogy includes Wang &rarr; Starker &rarr; Schiffer &rarr; Popper.
 
 # Research Background
-I graduated from Cornell University with a major in astronomy with a concentration in astrophysics and a minor in physics. I have been conducting research at Cornell for over five years alongside Professor Nicholas Battaglia and Dr. John Orlowski-Scherer. After graduating, I was awarded a Fulbright Research Award to study cosmic rays at the University of Perugia under Professor Nicolas Tomassetti. I am currently attending the University of California, Riverside to pursue a PhD in Astronomy under Professor Steve Choi.
+<img src="/images/ceci_logo.png" alt="CECI Logo" width="100" style="float: right; margin-left: 15px;"/>
+
+I graduated from Cornell University with a major in astronomy with a concentration in astrophysics and a minor in physics. I have been conducting research at Cornell for over five years alongside Professor Nicholas Battaglia and Dr. John Orlowski-Scherer. After graduating, I was awarded a Fulbright Research Award to study cosmic rays at the University of Perugia under Professor Nicolas Tomassetti. I am currently attending the University of California, Riverside to pursue a PhD in Astronomy under Professor Steve Choi and am part of the Center for Experimental Cosmology and Instrumentation.
 
 ## Current Research Interests
+<img src="/images/so_logo.png" alt="SO Logo" width="100" style="float: right; margin-left: 15px;"/>
+<img src="/images/ccat_logo.png" alt="CCAT Logo" width="100" style="float: right; margin-left: 15px;"/>
+
 Through Professor Steve Choi, I have been calculating angular power spectra on the cosmic microwave background. This is extremely important to help us better understand the formation of the early universe and what processes led to its development and structure we see today.
 
 Under Professor Battaglia and Dr. Orlowski-Scherer, I have been studying thermal emission flux from asteroids in our solar system. We use data collected by the [Atacama Cosmology Telescope](https://act.princeton.edu/), which has prompted new questions into asteroid regolith, such as flux discrepancies across infrared and millimeter wavelength observations.
+
+<img src="/images/quarknet_logo.svg" alt="QuarkNet Logo" width="100" style="float: right; margin-left: 15px;"/>
 
 Inspired by my high school particle physics teacher, I recently submitted a paper detailing a cosmic ray muon experiment I conducted in high school. Our results constrain the accuracy of [QuarkNet detectors](https://quarknet.fnal.gov/toolkits/ati/fnaldet.html) in high school classrooms, but more importantly, we ask high schoolers to develop their own experiments to help improve detectors and conduct science on their own.
 
