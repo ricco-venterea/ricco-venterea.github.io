@@ -21,7 +21,6 @@ I also played cello for 10 years, and my pedagogical genealogy includes Wang &ra
 I graduated from Cornell University with a major in astronomy with a concentration in astrophysics and a minor in physics. I have been conducting research at Cornell for over five years alongside Professor Nicholas Battaglia and Dr. John Orlowski-Scherer. After graduating, I was awarded a Fulbright Research Award to study cosmic rays at the University of Perugia under Professor Nicolas Tomassetti. I am currently attending the University of California, Riverside to pursue a PhD in Astronomy under Professor Steve Choi and am part of the Center for Experimental Cosmology and Instrumentation.
 
 ## Current Research Interests
-<img src="/images/so_logo.png" alt="SO Logo" width="100" style="float: right; margin-left: 15px;"/>
 <img src="/images/ccat_logo.png" alt="CCAT Logo" width="100" style="float: right; margin-left: 15px;"/>
 
 Through Professor Steve Choi, I have been calculating angular power spectra on the cosmic microwave background. This is extremely important to help us better understand the formation of the early universe and what processes led to its development and structure we see today.
