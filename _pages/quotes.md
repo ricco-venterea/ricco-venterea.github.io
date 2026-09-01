@@ -51,4 +51,6 @@ Here is a current list of quotes I have collected over the years. I feel they re
 
 - I will learn from myself, be my own pupil; I will learn from myself the secret of Siddhartha. - Hermann Hesse
 
+- We must not cease from exploration and the end of all our exploring will be to arrive where we began and to know the place for the first time. - T. S. Eliot
+
 
