@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Biography
-Hello! I'm very passionate about astrophysics research and pursuing ideas across disciplines, as well as increasing diversity in astronomy. In my free time, I like to play piano, bass guitar and chess. I'm also an [avid reader](https://www.goodreads.com/review/list/22822356-ricco?ref=nav_mybooks&shelf=currently-reading), enjoying genres from classic literature to science fiction. 
+Hello! I'm very passionate about astrophysics research and pursuing ideas across disciplines, as well as increasing diversity in astronomy. In my free time, I like to play piano, bass guitar and [chess](https://lichess.org/?user=ricco_vent&variant=standard&gameMode=casual&time=unlimited#friend). I'm also an [avid reader](https://www.goodreads.com/review/list/22822356-ricco?ref=nav_mybooks&shelf=currently-reading), enjoying genres from classic literature to science fiction. 
 
 My [academic genealogy](https://academictree.org/physics/faq.php#whatis) includes Millikan, Rabi, Sommerfeld, Wilkinson, Oppenheimer, Zwicky, J.J. Thomson, Born, Ehrenfest, Pauli, and Weyl. My Einstein number is 5 (Battaglia &rarr; Bond &rarr; Fowler &rarr; Zwicky &rarr; Einstein). Through a summer program, my genealogy would also include Feynman under Professor Jim Gates.
 
